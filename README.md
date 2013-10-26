@@ -50,7 +50,7 @@ Use the `off` method to unbind one or more keycombinations.
 
 Due to [complex cross-browser issues](http://unixpapa.com/js/key.html "unixpapa.com, JavaScript Madness: Keyboard Events") you can't just use any key you want. *jQuery.Shortcut.js* has an internal list of whitelisted keys you can use.
 
-### List of modifier keys
+### Modifier keys
 
 In combination with a key from the list of primary keys below you can use modifier keys.
 
